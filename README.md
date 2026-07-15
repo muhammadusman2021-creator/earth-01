@@ -60,3 +60,20 @@ echo "VITE_AI_API_KEY=your_api_key_here" > .env
 
 # Run locally
 npm run dev
+---
+
+### 4. 🎬 Demo Video Script & Storyboard (For CapCut)
+*Aim for a snappy **60–90 second** video. Use screen recordings of your web application, mixed with royalty-free stock footage of earth, technology, and futuristic UI.*
+
+*   **0:00 - 0:15 (The Hook):**
+    *   *Visual:* High-speed stock footage of global cities, extreme weather, and high-tech command centers.
+    *   *Voiceover:* *"In an interconnected world, a single decision can ripple across generations. How would you lead humanity through the ultimate test of survival?"*
+*   **0:15 - 0:35 (The Gameplay/Walkthrough):**
+    *   *Visual:* Screen recording of the Earth-01 interface. Show clicking "Start Simulation (2026)". Zoom in on a generated event like "Water Crisis".
+    *   *Voiceover:* *"Introducing Earth-01. As a global leader, you are faced with dynamic, AI-generated crises. Will you invest in AI-powered recycling or mandate strict conservation?"*
+*   **0:35 - 0:50 (The AI Engine):**
+    *   *Visual:* Highlight the AI text output that explains the trade-offs. Show the simulation dials (Economy, Climate, Stability) shifting.
+    *   *Voiceover:* *"Every choice triggers realistic socio-economic trade-offs, calculated instantly by our generative engine. Balance public satisfaction, economic growth, and the UN Sustainable Development Goals."*
+*   **0:50 - 1:10 (The Climax & CTA):**
+    *   *Visual:* Show a screen ending in "✅ Humanity Survived" and another ending in "❌ Civilization Collapsed". Transition to a final slide with a big QR Code.
+    *   *Voiceover:* *"Navigate the chaotic timeline to 2100. Will you thrive, or will civilization collapse? Scan the QR code, launch the simulator, and find out today."*
