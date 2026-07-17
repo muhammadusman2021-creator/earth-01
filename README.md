@@ -40,7 +40,17 @@ Earth-01 serves as an educational tool promoting **systems thinking** in sustain
 * **SDG 2 (Zero Hunger):** Simulating agricultural policy, food logistics, and crop failure.
 * **SDG 3 (Good Health and Well-being):** Managing pandemic preparedness and healthcare infrastructure.
 * **SDG 6 (Clean Water and Sanitation):** Decisions surrounding desalination, recycling, and water conservation.
+## 🌐 Live Demo
+https://earth-01-destiny.lovable.app
 
+## 🎥 Demo Video
+https://www.capcut.com/sv2/ZS9MKTEsNCEAC-f1rAe/
+
+## 📊 Presentation
+https://gamma.app/docs/Earth-01-Humanity-Simulator-cibf6ncxehobd8q
+
+## 🎨 Poster
+https://canva.link/jq2gpvin639q4ba
 ---
 
 ## 📦 Installation & Setup
